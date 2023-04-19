@@ -16,7 +16,6 @@
           Investing in Pepe City offers a unique opportunity to earn a revenue share from resort income and sales, while also creating jobs for the local community in El Salvador and contributing to the growth of cryptocurrency.
 
 
-
           </p>
        </div>
 
@@ -25,9 +24,6 @@
           <p class="text my-2">
           Pepe City offers a plethora of experiences, from accommodation and dining to activities, exclusive events, and the use of PPC at the resort, all while supporting the local community and the growth of cryptocurrency.
 
-          </p>
-          <h1 class="font-bold text-2xl my-2"></h1>
-          <p class="text my-2">
           </p>
        </div>
     </div>
