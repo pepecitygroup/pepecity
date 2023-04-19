@@ -4,7 +4,7 @@
 <template>
   <div class="my-4 grid grid-cols-1 md:grid-cols-2  gap-4">
     <div>
-      <img src="/assets/images/pepecity1.jpg" class="p-2 mx-auto" width="500" />
+      <img src="/assets/images/pepecity3.jpg" class="p-2 mx-auto" width="500" />
     </div>
     <div class="text-gray-800 px-2 ">
       <a name="about"><h1 class="text-center font-bold text-2xl md:text-4xl">About</h1></a>
