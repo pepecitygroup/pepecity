@@ -5,6 +5,7 @@ import vuePugPlugin from 'vue-pug-plugin'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+    base : '/pepecitygroup',
   plugins: [vue(
     {
       template: {
