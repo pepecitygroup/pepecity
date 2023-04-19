@@ -17,7 +17,7 @@
           <div class="grid md:grid-cols-2">
             <div class="flex flex-col">
               <div class="font-bold mb-4">Resources</div>
-              <div><a class="" href="/whitepaper.pdf">Whitepaper</a></div>
+              <div><a class="" href="/assets/Pepe_City_V1_WP.pdf">Whitepaper</a></div>
             </div>
             <div class="flex flex-col justify-items-end">
               <div class="font-bold mb-4">Links</div>
@@ -31,7 +31,7 @@
       </div>
     </div>
   </div>
-      <div class="flex flex-row px-4">
+      <div class="flex flex-row my-1 justify-center">
         <div class="text-sm">&copy; 2023 Pepe City, All rights reserved</div>
       </div>
       </div>
