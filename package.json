@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build; push-dir --dir=dist --branch=gh-pages --cleanup",
+    "build": "vite build",
+    "deploy": "vite build; push-dir --dir=dist --branch=gh-pages --cleanup",
     "preview": "vite preview"
   },
   "dependencies": {
