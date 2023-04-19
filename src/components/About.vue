@@ -6,7 +6,7 @@
     <div>
       <img src="/assets/images/pepecity1.jpg" class="p-2 mx-auto" width="500" />
     </div>
-    <div class="text-gray-800">
+    <div class="text-gray-800 px-2 ">
       <a name="about"><h1 class="text-center font-bold text-2xl md:text-4xl">About</h1></a>
       <p class="my-2">
         Pepe City, is world's first blockchain-based resort, that is not only focused on providing an exceptional vacation experience for its guests but also aims to create job opportunities for the local community.

@@ -1,8 +1,8 @@
 <script setup></script>
 <template>
-  <div class="mt-12  px-8 md:py-14" style="background-color : #EEE3C5">
+  <div class="mt-12  px-8 py-4 md:py-14" style="background-color : #EEE3C5">
     <a name="team"><h1 class="text-center text-black font-bold text-4xl my-2">Team</h1></a>
-    <div class="grid grid-cols-4 gap-2">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-2">
       <div>
         <h1 class="text-black font-bold text-1xl my-2">Front dev </h1>
         <p class="text my-2">
