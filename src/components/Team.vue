@@ -11,8 +11,10 @@ The idea for Pepe City was born out of a group of crypto enthusiasts who wanted 
 To bring their vision to life, the founders of Pepe City created a digital asset called the Pepe City Coin. This cryptocurrency will be used by guests to pay for various services at the resort, including accommodations, dining, and activities.
       </p>
 
+
+
       <p class="my-4">
-One of the key features of the Pepe City Coin is its DAO (decentralized autonomous organization). This allows coin holders to have a say in how the resort is run and how the coin is used. By participating in the DAO, investors can help shape the future of the resort and potentially increase the value of their investment.
+      One of the key features of Pepe City is that the future stakeholders will have the opportunity to secure a Pepe Passport/Visa as a non-fungible token (NFT). The passport will grant varying levels of access based on the quantity of tokens held in conjunction with the NFT. Our foremost stakeholders will receive a NFT airdrop as a reward. Additionally, all holders of PPC will consistently receive discounts.
       </p>
 
       <p class="my-4">

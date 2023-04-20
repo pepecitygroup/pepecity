@@ -15,7 +15,7 @@
         The use of cryptocurrency in real estate development has been gaining popularity in recent years due to its many advantages, such as security, transparency, and accessibility. However, one of the most significant benefits of using cryptocurrency in real estate development is the potential for increased community engagement and participation.
       </p>
       <p class="my-2">
-        One of the key features of Pepe City is that the future stakeholders will have the opportunity to secure a Pepe Passport/Visa as a non-fungible token (NFT). The passport will grant varying levels of access based on the quantity of tokens held in conjunction with the NFT. Our foremost stakeholders will receive a NFT airdrop as a reward. Additionally, all holders of PPC will consistently receive discounts.
+        If you are interested in learning more about Pepe City and its associated Pepe City Coin, we encourage you to visit our website and explore our website not 1, not 2 but 100 times. You can also join our community on social media and participate in discussions with other like-minded individuals. We welcome anyone who shares our vision of creating sustainable resorts and infrastructure while providing an innovative payment solution. Together, we can make Pepe City a reality.
       </p>
       <div class="my-2 mt-8 flex flex-wrap">
         <a class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Buy</a>
