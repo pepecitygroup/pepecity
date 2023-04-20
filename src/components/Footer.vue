@@ -15,13 +15,13 @@
         </div>
         <div class="w-1/2">
           <div class="grid md:grid-cols-2">
+              <!--
             <div class="flex flex-col">
               <div class="font-bold mb-4">Resources</div>
                 <div><a href="https://medium.com/@pepecitygroup/pepe-city-a-new-resort-destination-in-el-salvador-26cd41503a44">Medium</a></div>
-                <!--
               <div> <a class="" href="/assets/tmp.pdf">Whitepaper</a></div>
-                  -->
             </div>
+              -->
             <div class="flex flex-col justify-items-end">
               <div class="font-bold mb-4">Links</div>
               <div><a class=""  href="#about">About</a></div>
