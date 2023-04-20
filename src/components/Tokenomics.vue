@@ -22,7 +22,7 @@
         <br />
          <strong>ENS NAME </strong><br />
         1. pepecitycexwallet.eth (5%)<br />
-        2. pepecitylandwallet.eth (10%)<br />
+        2. pepecitylandwallet.eth (5%)<br />
     </div>
   </div>
   </div>
