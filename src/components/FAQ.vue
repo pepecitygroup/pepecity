@@ -21,7 +21,7 @@
         </p>
         <h1 class="font-bold text-2xl my-2">When will the land purchase be done?</h1>
         <p class="text my-2">
-          We'll buy the land for Pepe City once our trading taxes generate enough revenue, which we expect to happen quickly.
+          As an investor, it's important to note that the acquisition of the land for Pepe City hinges on our ability to generate enough revenue through our trading activities. However, we are confident that we will achieve this goal in a timely manner. Rest assured that we are fully committed to making this project a success and delivering value to our stakeholders.
         </p>
       </div>
     </div>
