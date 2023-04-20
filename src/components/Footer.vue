@@ -17,7 +17,7 @@
           <div class="grid md:grid-cols-2">
             <div class="flex flex-col">
               <div class="font-bold mb-4">Resources</div>
-              <div><a class="" href="/assets/Pepe_City_V1_WP.pdf">Whitepaper</a></div>
+              <div><a class="" href="/assets/tmp.pdf">Whitepaper</a></div>
             </div>
             <div class="flex flex-col justify-items-end">
               <div class="font-bold mb-4">Links</div>
