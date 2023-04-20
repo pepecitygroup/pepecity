@@ -19,8 +19,6 @@
         <p class="text my-2">
           Pepe City offers a plethora of experiences, from accommodation and dining to activities, exclusive events, and the use of PPC at the resort, all while supporting the local community and the growth of cryptocurrency.
         </p>
-      </div>
-      <div>
         <h1 class="font-bold text-2xl my-2">When will the land purchase be done?</h1>
         <p class="text my-2">
           We'll buy the land for Pepe City once our trading taxes generate enough revenue, which we expect to happen quickly.
