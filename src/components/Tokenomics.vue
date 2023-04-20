@@ -6,6 +6,11 @@
   <a name="tokenomics"><h1 class="text-center font-bold text-2xl md:text-4xl">Tokenomics</h1></a>
   <div class="my-4 grid grid-cols-1 md:grid-cols-1  gap-4">
     <div class="text-center">
+        <strong>CONTRACT ADDRESS</strong>
+        <br />
+        0x01E006708440ea4Ec259869232B4127089E9753d
+        <br />
+        <br />
         <strong>MAX TOTAL SUPPLY</strong>
         <br />
         420,234,000,000,000
