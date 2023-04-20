@@ -18,10 +18,10 @@
         Pepe city offers a unique opportunity for investors to participate in the project through a decentralized autonomous organization (DAO). A DAO is a digital organization that operates based on smart contracts and is controlled by its members. In the case of Pepecity, the DAO allows investors to have a say in the decision-making process of the project.
       </p>
 
-      <div class="my-2 mt-8">
-        <button class="m-1 bg-black text-gray-100 px-8 py-2 lg font-bold text-lg rounded-lg hover:bg-gray-800">Buy</button>
-        <button class="m-1 bg-black text-gray-100 px-8 py-2 lg font-bold text-lg rounded-lg hover:bg-gray-800">Charts</button>
-        <a href="/assets/tmp.pdf" target="_blank" class="m-1 bg-black text-gray-100 px-8 py-2 lg font-bold text-lg rounded-lg hover:bg-gray-800">Whitepaper</a>
+      <div class="my-2 mt-8 flex flex-wrap">
+        <a class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Buy</a>
+        <a class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Charts</a>
+        <a href="/assets/tmp.pdf" target="_blank" class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Whitepaper</a>
       </div>
     </div>
 
