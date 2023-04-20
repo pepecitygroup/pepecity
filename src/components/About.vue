@@ -20,7 +20,9 @@
       <div class="my-2 mt-8 flex flex-wrap">
         <a href="https://app.uniswap.org/#/swap?outputCurrency=0x01e006708440ea4ec259869232b4127089e9753d" target="_blank" class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Buy</a>
         <a href="https://dexscreener.com/ethereum/0xc5b4aa3383b56872ff06c8ece9f26e815f095cef"  target="_blank" class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Charts</a>
+        <!--
         <a href="/assets/tmp.pdf" target="_blank" class="m-1 bg-black text-gray-100 px-8 py-3 lg font-bold text-lg rounded-lg hover:bg-gray-800">Whitepaper</a>
+          -->
       </div>
     </div>
 
