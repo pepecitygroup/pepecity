@@ -12,9 +12,7 @@ const getClass = computed(() => {
 <template>
   <div class="md:mt-2 md:mb-8 px-8 py-2 " style="background-color : #EEE3C5">
     <div class="flex flex-col items-center justify-center mt-24">
-      <div style="height : 400px">
         <img src="/assets/images/pepeheader.jpg" width="800" :class="getClass" @mouseover="isElevated= true" @mouseout="isElevated = false" />
-      </div>
       <h1 class="font-bold text-4xl my-2">Pepe City: A new Resort Destination in El Salvador</h1>
 
       <p class="text-xl w-4/5 text-gray-500 my-2">
@@ -25,7 +23,6 @@ const getClass = computed(() => {
 </template>
 <style>
 .img-default-size {
-height: 320;
 transition: all 0.3s;
 }
 
