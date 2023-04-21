@@ -22,7 +22,7 @@
         <br />
         <strong>TAX</strong><br />
         PPC
-        0% buy / 0% sell (land tax) + 1% auto liquidity
+        0% buy / 0% sell (land tax) 
         <br />
         <br />
          <strong>ENS NAME </strong><br />
