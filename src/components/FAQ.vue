@@ -21,7 +21,7 @@
         </p>
         <h1 class="font-bold text-2xl my-2">When will the land purchase be done?</h1>
         <p class="text my-2">
-          As an investor, it's important to note that the acquisition of the land for Pepe City hinges on our ability to generate enough revenue through our trading activities. However, we are confident that we will achieve this goal in a timely manner. Rest assured that we are fully committed to making this project a success and delivering value to our stakeholders.
+          When will the land purchase be done? As an investor, we are thrilled to announce that the land acquisition for the remarkable Pepe City project is backed by our robust revenue generation through our flourishing business operations. We have full faith in achieving this milestone effortlessly. Our unyielding commitment to the project's success and providing outstanding value to all our stakeholders is what sets us apart.
         </p>
       </div>
     </div>

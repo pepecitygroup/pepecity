@@ -4,22 +4,20 @@
     <a name="team"><h1 class="text-center text-black font-bold text-4xl my-2">Team</h1></a>
 
     <p class="my-4">
-The idea for Pepe City was born out of a group of crypto enthusiasts who wanted to create a space where people could come together to enjoy the benefits of cryptocurrency in a relaxed and luxurious environment. The founders of Pepe City saw an opportunity to create a unique experience that would appeal to both cryptocurrency investors and travelers looking for a unique vacation destination.
-      </p>
+      The concept for Pepe City originated from a collective of cryptocurrency enthusiasts who envisioned a haven where people could relish in the advantages of cryptocurrency within an opulent and laid-back setting. Pepe City's founders identified a potential to establish a one-of-a-kind experience that would cater to cryptocurrency investors as well as travelers seeking an exceptional vacation destination.
+    </p>
 
-      <p class="my-4">
-To bring their vision to life, the founders of Pepe City created a digital asset called the Pepe City Coin. This cryptocurrency will be used by guests to pay for various services at the resort, including accommodations, dining, and activities.
-      </p>
+    <p class="my-4">
+      To actualize their aspiration, Pepe City's founders developed a digital asset known as Pepe City Coin. This cryptocurrency will enable guests to cover expenses for various services at the resort, including accommodations, dining, and activities.
+    </p>
 
+    <p class="my-4">
+      A principal feature of Pepe City is that future stakeholders will have the chance to obtain a Pepe Passport/Visa as a non-fungible token (NFT), allowing varying levels of access based on the number of tokens held in conjunction with the NFT. Our most prominent stakeholders will be rewarded with an NFT airdrop. Moreover, all PPC holders will consistently enjoy discounts.
+    </p>
 
-
-      <p class="my-4">
-      One of the key features of Pepe City is that the future stakeholders will have the opportunity to secure a Pepe Passport/Visa as a non-fungible token (NFT). The passport will grant varying levels of access based on the quantity of tokens held in conjunction with the NFT. Our foremost stakeholders will receive a NFT airdrop as a reward. Additionally, all holders of PPC will consistently receive discounts.
-      </p>
-
-      <p class="my-4">
-The founders of Pepe City believe that their resort offers a unique investment opportunity for those interested in both cryptocurrency and luxury travel.
-      </p>
+    <p class="my-4">
+      Pepe City's founders are confident that their resort presents a unique investment opportunity for those intrigued by both cryptocurrency and luxury travel.
+    </p>
 
   </div>
 </template>

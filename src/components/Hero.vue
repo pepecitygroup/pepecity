@@ -16,7 +16,7 @@ const getClass = computed(() => {
       <h1 class="font-bold text-4xl my-2">Pepe City: A new Resort Destination in El Salvador</h1>
 
       <p class="text-xl w-4/5 text-gray-500 my-2">
-        Pepe City aims to become a luxurious and sustainable resort in El Salvador that offers unique investment opportunities through its connection with cryptocurrency market.
+        Pepe City aims to become a luxurious and sustainable resort in El Salvador, offering unique investment opportunities through its connection to the cryptocurrency market.
       </p>
     </div>
   </div>
