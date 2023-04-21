@@ -8,7 +8,7 @@
     <div class="text-center">
         <strong>CONTRACT ADDRESS</strong>
         <br />
-        <a href="https://etherscan.io/address/0x01e006708440ea4ec259869232b4127089e9753d">0x01E006708440ea4Ec259869232B4127089E9753d</a>
+        <a class="text-blue-500 hover:text-blue-700" href="https://etherscan.io/address/0x01e006708440ea4ec259869232b4127089e9753d">0x01E006708440ea4Ec259869232B4127089E9753d</a>
         <br />
         <br />
         <strong>MAX TOTAL SUPPLY</strong>
